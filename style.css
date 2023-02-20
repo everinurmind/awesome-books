@@ -1,0 +1,22 @@
+#form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#add {
+    margin-top: 10px;
+}
+
+ul > li {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 15px;
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 40px;
+    margin-left: -40px;
+}
