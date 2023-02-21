@@ -43,7 +43,7 @@ class BookApp {
     });
     li.appendChild(removeButton);
     this.bookList.appendChild(li);
-  }  
+  }
 
   displayBooks() {
     this.bookList.innerHTML = '';
@@ -54,3 +54,4 @@ class BookApp {
 }
 
 const bookApp = new BookApp();
+bookApp.displayBooks();
