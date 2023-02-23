@@ -64,7 +64,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder:
+- Clone this repository to your desired folder:
 
 ``sh
   cd my-folder
