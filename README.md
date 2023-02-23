@@ -62,18 +62,17 @@ To get a local copy up and running, follow these steps.
 
 - install git, install VSCode
 
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-```sh
+``sh
   cd my-folder
-  git clone https://github.com/everinurmind/awesome-books```
+  git clone https://github.com/everinurmind/awesome-books``
+  
+  ### Install
 
-### Install
-
-- npm install
+- ``npm install``
 
 
 ### Usage
